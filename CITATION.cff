@@ -1,0 +1,8 @@
+cff-version: "0.0.1"
+date-released: 2023-05
+message: "If you use this software, please cite it using these metadata."
+title: "Exapunks-Bots: Applied CV and AI to play Exapunks minigames"
+url: "https://github.com/GreenMachine582/exapunks-bots"
+authors:
+  - family-names: Johnson
+    given-names: Matthew
